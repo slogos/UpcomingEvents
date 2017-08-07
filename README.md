@@ -2,4 +2,4 @@
 
 Mini Social Network Application
 
-# www.upcoming-events.azurewebsites.net/
+# upcoming-events.azurewebsites.net/
